@@ -1,16 +1,15 @@
-# Estrategias Didacticas
 Crear una página web estática a través del uso de GitHub Pages con datos básicos.
 
-#Plataforma
+# Plataforma
 
 GitHub
 GitHub Pages
 
-#Librerías:
+# Librerías:
 
  Books with Jupyter: https://jupyterbook.org/intro.html
  
-#Proceso:
+# Proceso:
 
 - Crear una cuenta en GitHub
 - Iniciar el servicio de Github Page con su usuario. Revisar el siguiente enlace: https://pages.github.com/
@@ -22,6 +21,6 @@ GitHub Pages
 - Agregar los archivos generados a través de Jupyter Book al repositorio de GitHub llamado milibro
 - La página se debe visualizar con el siguiente enlace: http://[SU-NOMBRE-USUARIO].github.io/milibro
 
-#Presentar
+# Presentar
 
 - Enviar la URL: http://[SU-NOMBRE-USUARIO].github.io/milibro de su página generada a través del EVA.
